@@ -1,0 +1,163 @@
+body {
+	font-family: 'Arial','Helvetica Neue', Helvetica,sans-serif;
+	color:#777777;
+	background-image: url(https://images.freecreatives.com/wp-content/uploads/2015/12/Grey-Floral-Pattern-for-Website-Background.jpg);
+}
+
+
+.TopArea {
+overflow:hidden;
+background-color: white;
+border-bottom: 0.5px solid #cccccc;
+}
+
+.heading {
+float:left;
+background-color:#4aaaa5;
+padding: 22px;
+margin-left:15%;
+font-size: x-large;
+font-family: 'Georgia',Times,Times New Roman, serif;
+color: white;
+font-weight: bold;
+}
+
+.sidelinks {
+
+	float:right;
+}
+
+.sidelinks p {
+margin-right:200px;
+margin-top: 35px;
+letter-spacing:2px;
+}
+
+.MiddleArea {
+margin-bottom: 12px;
+}
+
+.connect {
+float:right;
+margin-right:175px;
+border:1px solid lightgray;
+padding:20px;
+background-color: white;
+}
+
+.connect p {
+
+	padding:20px;
+	color:#4aaaa5;
+	font-size:25px;
+}
+
+.icons {
+
+	margin-left:27px;
+}
+
+.icons img {
+
+	width:50px;
+}
+
+.leftmid {
+width:45%;
+margin-left:120px;
+border:1px solid lightgray;
+padding:15px;
+margin-top: 25px;
+background-color: white;
+}
+
+
+.about_me{
+
+	color:#4aaaa5;
+	font-size:30px;
+	margin-bottom:20px;
+	font-weight: bold;
+}
+
+.profileimage {
+
+	float:left;
+	margin-right:10px;
+}
+
+.profileimage img {
+
+	width:200px;
+}
+
+.finalpart p {
+	color:transparent;
+	background-color: green;
+	height: 5px;
+}
+
+.copyrightinfo {
+	background-color:grey;
+	text-align:center;
+	padding: 14px;
+	font-size: x-small;
+	color: white;
+}
+
+.nameInput {
+
+	margin-bottom:7px;
+}
+
+.input {
+
+	margin-bottom:10px;
+}
+
+.input input {
+
+	width:563px;
+}
+
+.emailInput {
+
+	margin-bottom:7px;
+
+}
+
+.email input {
+
+margin-bottom:10px;
+width:563px;
+
+}
+
+.MessageInput {
+	margin-bottom:7px;
+}
+
+.contact {
+color:#4aaaa5;
+font-size:30px;
+margin-bottom:20px;
+font-weight: bold;
+}
+
+.copyrightinfoContact {
+	background-color:grey;
+	text-align:center;
+	padding: 13px;
+	font-size: x-small;
+	color: white;
+}
+
+
+button {
+
+	margin-top:12px;
+	border: none;
+	padding: 10px;
+	color:white;
+	background-color:#4aaaa5;
+}
