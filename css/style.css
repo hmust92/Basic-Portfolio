@@ -1,7 +1,10 @@
 body {
-	font-family: 'Arial','Helvetica Neue', Helvetica,sans-serif;
-	color:#777777;
-	background-image: url(https://images.freecreatives.com/wp-content/uploads/2015/12/Grey-Floral-Pattern-for-Website-Background.jpg);
+	
+font-family: 'Arial','Helvetica Neue', Helvetica,sans-serif;
+	
+color:#777777;
+	
+background-image: url(https://images.freecreatives.com/wp-content/uploads/2015/12/Grey-Floral-Pattern-for-Website-Background.jpg);
 }
 
 
@@ -23,19 +26,18 @@ font-weight: bold;
 }
 
 .sidelinks {
-
 	float:right;
+	margin-top: 40px;
+	margin-right: 20%;
 }
 
-.sidelinks p {
-margin-right:200px;
-margin-top: 35px;
-letter-spacing:2px;
+.aboutLink, .contactLink, .portfolioLink {
+	text-decoration:none;
+	color:gray;
+	letter-spacing:3px;
 }
 
-.MiddleArea {
-margin-bottom: 12px;
-}
+.MiddleArea {margin-bottom: 12px;}
 
 .connect {
 float:right;
@@ -62,14 +64,7 @@ background-color: white;
 	width:50px;
 }
 
-.leftmid {
-width:45%;
-margin-left:120px;
-border:1px solid lightgray;
-padding:15px;
-margin-top: 25px;
-background-color: white;
-}
+.leftmid {margin-left:120px;border:1px solid lightgray;padding:15px;margin-top: 25px;background-color: white;width: 45%;}
 
 
 .about_me{
