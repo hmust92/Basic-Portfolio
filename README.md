@@ -2,7 +2,7 @@
 
 A simple multipaged website that uses HTML and CSS. It is a basic portfolio that has an about page, a contact page and a portfolio page.
 
-(image here)
+![Image of about page](https://github.com/hmust92/Basic-Portfolio/blob/master/MarkdownMaterial/about.png)
 
 ###### Technologies used
 
