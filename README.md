@@ -11,3 +11,8 @@ A simple multipaged website that uses HTML and CSS. It is a basic portfolio that
 
 To run it, clone it locally and open in a browser.
 
+```
+git clone https://github.com/hmust92/Basic-Portfolio.git
+```
+
+
